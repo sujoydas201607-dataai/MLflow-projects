@@ -28,7 +28,8 @@ Data Scientist and AI-Native Solutions Developer with experience in delivering A
 - Jenkins
 - Angular.JS
 - Node.JS
-- API Based Interface
+- RESTAPI
 #
 ## Architecture
-See [docs/architecture.md]
+docs/
+   └── ResourceDemandForecasting.md
