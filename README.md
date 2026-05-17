@@ -15,8 +15,7 @@ Data Scientist and AI-Native Solutions Developer with experience in delivering A
 - Vehicle Sales Forecasting
 - Vehicle Engine beheviour forecasting
 - Forecasting/Prediction on seat booking for Bus Services
-#<img width="1090" height="65" alt="image" src="https://github.com/user-attachments/assets/58f4e87f-d87f-4a0c-986e-00f215ccd403" />
-#
+  
 ## Tech Stack
 - Python
 - R
