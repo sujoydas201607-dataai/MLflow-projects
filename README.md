@@ -31,5 +31,4 @@ Data Scientist and AI-Native Solutions Developer with experience in delivering A
 - RESTAPI
 #
 ## Architecture
-docs/
-   └── ResourceDemandForecasting.md
+See [docs/ResourceDemandForecasting.md]
