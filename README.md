@@ -39,6 +39,6 @@ docs/
 - Python
 - Docker
 - RESTAPI
-## Algoritm used
+## Algorithm used
 - Long Short-Term Memory (LSTM)
 - Monte Carlo methods
