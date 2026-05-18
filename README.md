@@ -44,10 +44,10 @@ Data Scientist and AI-Native Solutions Developer with experience in delivering A
 
 ##  Forecasting of parameter under specific persona
 
-https://github.com/sujoydas201607-dataai/MLflow-projects/blob/4f6dde7af2e58dd62310d261a2d43064c07857fe/docs/Revenue%20Forcasting.GIF
-docs/ResourceDemandForecasting
+<img width="1013" height="580" alt="Image" src="https://github.com/sujoydas201607-dataai/MLflow-projects/blob/4f6dde7af2e58dd62310d261a2d43064c07857fe/docs/Revenue%20Forcasting.GIF
+docs/ResourceDemandForecasting" />
 
-https://github.com/sujoydas201607-dataai/MLflow-projects/blob/4f6dde7af2e58dd62310d261a2d43064c07857fe/docs/Revenue%20Forecasting%20Flow.GIF
+<img width="1013" height="580" alt="Image" src="https://github.com/sujoydas201607-dataai/MLflow-projects/blob/4f6dde7af2e58dd62310d261a2d43064c07857fe/docs/Revenue%20Forecasting%20Flow.GIF" />
 
   ## Tech Stack
 - Python
