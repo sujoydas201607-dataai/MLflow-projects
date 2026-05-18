@@ -44,10 +44,10 @@ Data Scientist and AI-Native Solutions Developer with experience in delivering A
 
 ##  Forecasting of parameter under specific persona
 
-<img width="944" height="572" alt="RevenueForecasting" src="https://github.com/user-attachments/assets/3ac6da9f-985c-42b3-8c30-264369e0a27a" />
+<img width="944" height="572" alt="Image" src="https://github.com/user-attachments/assets/3ac6da9f-985c-42b3-8c30-264369e0a27a" />
 
 
-<img width="875" height="498" alt="RevenueForecastingFlow" src="https://github.com/user-attachments/assets/1f4093d5-8738-4d6d-97d4-a298c97cf8fa" />
+<img width="875" height="498" alt="Image" src="https://github.com/user-attachments/assets/1f4093d5-8738-4d6d-97d4-a298c97cf8fa" />
 
 ## Tech Stack
 - Python
