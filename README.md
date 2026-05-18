@@ -44,9 +44,10 @@ Data Scientist and AI-Native Solutions Developer with experience in delivering A
 
 ##  Forecasting of parameter under specific persona
 
-<img width="1013" height="580" alt="Image" src="https://github.com/sujoydas201607-dataai/MLflow-projects/blob/4f6dde7af2e58dd62310d261a2d43064c07857fe/docs/Revenue%20Forcasting.GIF" />
+<img width="944" height="572" alt="RevenueForecasting" src="https://github.com/user-attachments/assets/3ac6da9f-985c-42b3-8c30-264369e0a27a" />
 
-<img width="1013" height="580" alt="Image" src="https://github.com/sujoydas201607-dataai/MLflow-projects/blob/4f6dde7af2e58dd62310d261a2d43064c07857fe/docs/Revenue%20Forecasting%20Flow.GIF" />
+
+<img width="875" height="498" alt="RevenueForecastingFlow" src="https://github.com/user-attachments/assets/1f4093d5-8738-4d6d-97d4-a298c97cf8fa" />
 
 ## Tech Stack
 - Python
@@ -58,3 +59,5 @@ Data Scientist and AI-Native Solutions Developer with experience in delivering A
 - SETAR
 - Artificial Neural Network
 - Linear Model
+
+
