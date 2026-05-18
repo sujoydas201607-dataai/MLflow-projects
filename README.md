@@ -45,6 +45,7 @@ Data Scientist and AI-Native Solutions Developer with experience in delivering A
 ##  Forecasting of parameter under specific persona
 <!-- This is Architecture -->
 
+<img width="944" height="572" alt="Image" src="https://github.com/user-attachments/assets/3ac6da9f-985c-42b3-8c30-264369e0a27a" />
 
 <!-- This is Flow -->
 
