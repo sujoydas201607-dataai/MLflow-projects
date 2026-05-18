@@ -5,7 +5,7 @@ Data Scientist and AI-Native Solutions Developer with experience in delivering A
 #
 ## Key Features
 - Resource Demand Forecasting for Sales Team
-- Forcasting of parameter under specific persona
+- Forecasting of parameter under specific persona
 - Project Delivery Generation
 - Resource reccommendation against Job Description
 - Reccoment Portfolio for a document
@@ -29,7 +29,7 @@ Data Scientist and AI-Native Solutions Developer with experience in delivering A
 - Angular.JS
 - Node.JS
 - RESTAPI
-#
+
 ## Architecture
 docs/
 - Resource Demand Forecasting
@@ -42,3 +42,19 @@ docs/
 ## Algorithm used
 - Long Short-Term Memory (LSTM)
 - Monte Carlo methods
+
+##  Architecture
+docs/
+- Forecasting of parameter under specific persona
+
+
+  ## Tech Stack
+- Python
+- Docker
+- RESTAPI
+
+## Algorithm used
+- LSTAR
+- SETAR
+- Artificial Neural Network
+- Linear Model
