@@ -43,10 +43,9 @@ docs/
 - Long Short-Term Memory (LSTM)
 - Monte Carlo methods
 
-##  Architecture
-docs/
-- Forecasting of parameter under specific persona
-
+##  Forecasting of parameter under specific persona
+docs/Revenue Forcasting.GIF
+docs/Revenue Forecasting Flow.GIF
 
   ## Tech Stack
 - Python
