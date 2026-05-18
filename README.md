@@ -43,10 +43,10 @@ Data Scientist and AI-Native Solutions Developer with experience in delivering A
 - Monte Carlo methods
 
 ##  Forecasting of parameter under specific persona
-
+<!-- This is Architecture -->
 <img width="944" height="572" alt="Image" src="https://github.com/user-attachments/assets/3ac6da9f-985c-42b3-8c30-264369e0a27a" />
 
-
+<!-- This is Flow -->
 <img width="875" height="498" alt="Image" src="https://github.com/user-attachments/assets/1f4093d5-8738-4d6d-97d4-a298c97cf8fa" />
 
 ## Tech Stack
